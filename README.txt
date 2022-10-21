@@ -1,6 +1,6 @@
 Project Title: Early Detection Of Chronic Kidney Disease Using Machine Learning
 
-Team Members: Aakash D, Abilaash, Adith V Gopal, Hari Babu E
+Team Members: Aakash D, Abilaash S, Adith V Gopal, Hari Babu E
 
 College Name: KCG College of Technology 
 
